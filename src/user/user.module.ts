@@ -5,5 +5,4 @@ import { UserController } from './user/user.controller';
   controllers: [UserController]
 })
 export class UserModule {
-  
 }
